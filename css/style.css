@@ -1,0 +1,201 @@
+*{
+	color:white;
+}
+body{
+background-color:black;
+}
+ul{
+list-style-type:none;
+}
+li{
+	display:inline-block;
+	padding:20px;
+	font-size:18px;
+	font-weight:bold;
+	font-family:'Sofia';
+}
+div.navi{
+		margin-top:40px;
+		margin-left:0px;
+		background-image:linear-gradient(gray,black);
+}
+.fb{
+	display:inline;
+	float:right;
+	margin-top:0px;
+	margin-right:18px;
+	padding:3px;
+}
+.Instaa{
+	width:35px;
+	height:37px;
+	margin-top:15px;
+}
+.fb h4{
+	float:left;
+	padding:0px 3px 10px 0px;
+	font-family:'Sofia';
+	font-size:25px;
+	margin-top:18px;
+	display:block;
+	margin-right:0px;
+}
+.list a:link{
+	text-decoration:none;
+	font-size:25px;
+}
+.list a:hover{
+	background-color:rgb(255,153,102);
+}
+.main{
+	display:flex;
+	margin:0px;
+	width:100%;
+	height:100%;
+}
+.Mybook{
+	width:54%;
+	height:770px;
+	float:left;
+	margin-top:20px;
+}
+h2{
+	font-size:50px;
+	margin-left:10px;
+	margin-top:10px;
+	font-weight:normal;
+}
+p{
+	font-size:20px;
+	margin-right:3px;
+	text-align:right-justify;
+}
+.wrap{
+	float:right;
+	width:74%;
+	position:relative;
+	margin-left:36px;
+	padding:20px;
+}
+form{
+	margin-left:20px;
+}
+input[type="text"]{
+	background-color:black;
+	font-size:20px;
+	padding:7px 10px 8px 4px;;
+	color:white;
+	margin-left:5px;
+}
+button{
+	background-color:purple;
+	font-size:15px;
+	padding:7px 13px 5px 4px;
+	color:white;
+	display:inline-block;
+	margin-top:0px;
+	margin-left:5px;
+}
+.headings{
+	display:flex;
+	margin-left:20px;
+	padding-right:20px;
+	margin-top:5px;
+}
+strong{
+	margin-left:5px;
+	font-size:20px;
+	text-align:justify;
+	color:#FAD7A0;
+}
+.pic{
+	display:flex;
+}
+.headings h3{
+	padding-right:20px;
+	font-family:Sofia;
+	font-size:22px;
+	color:#AED6F1;
+}
+
+#headings2 h3{
+	font-family:'Ranchers';
+}
+.imagess{
+	float:right;
+	width:47%;
+	height:500px;
+	margin-left:33px;
+	margin-top:39px;
+}
+.second{
+	width:100%;
+	height:100%;
+	display:flex;
+}
+.wrap2{
+	margin-left:0px;
+	width:50%;
+	float:left;
+	margin-top:30px;
+	margin-right:5px;
+	text-align:justify;
+}
+.amita{
+	float:right;
+	width:16%;
+	height:140px;
+	margin-right:450px;
+	margin-top:0px;
+}
+.next p{
+	float:left;
+	text-align:justify;
+}
+#hhh{
+	text-align:center;
+	margin-top:94px;
+	font-size:35px;
+}
+.next{
+	width:100%;
+	height:230px;
+	display:inline-block;
+}
+.batra{
+	float:left;
+	width:48%;
+	height:360px;
+	margin-right:5px;
+}
+.meee{
+	display:flex;
+	margin-top:140px;
+}
+.headp{
+text-align:justify;
+margin-left:43px;
+}
+footer{
+	text-align:center;
+	margin-top:80px;
+	font-weight:bold;
+	font-size:18px;
+}
+.wrap h2{
+	color:#D2B4DE;
+}
+.second h2{
+	color:#FAD7A0;
+	font-family:font-family:'BioRhyme;
+}
+.headp h2{
+	color:#F0B27A;
+}
+.fb a{
+	float:right;
+}
+.fb a:hover{
+	background-color:gray;
+	display:block;
+}
